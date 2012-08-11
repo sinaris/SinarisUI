@@ -1,16 +1,3 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/">
 	<Include file="Panels\load_panels.xml" />
-
-	<Include file="Actionbars\load_actionbars.xml" />
-	<Include file="Bags\load_bags.xml" />
-	<Include file="Buffs\load_buffs.xml" />
-	<Include file="Chat\load_chat.xml" />
-	<Include file="Databars\load_databars.xml" />
-	<Include file="Datatext\load_datatext.xml" />
-	<Include file="Extras\load_extras.xml" />
-	<Include file="Maps\load_maps.xml" />
-	<Include file="Misc\load_misc.xml" />
-	<Include file="Tooltip\load_tooltip.xml" />
-
-	<Include file="Skins\load_skins.xml" />
 </Ui>
