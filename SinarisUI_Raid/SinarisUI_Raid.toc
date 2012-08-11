@@ -1,0 +1,9 @@
+## Interface: 50001
+## Title: SinarisUI - Raid Layout
+## Notes:
+## Version: 6.0
+## Author: Sinaris
+## RequiredDeps: Tukui, SinarisUI, SinarisUI_Config
+## X-oUF: oUFTukui
+
+SinarisUI_Raid.xml

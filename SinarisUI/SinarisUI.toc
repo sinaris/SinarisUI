@@ -1,0 +1,10 @@
+## Interface: 50001
+## Title: SinarisUI
+## Notes:
+## Version: 6.0
+## Author: Sinaris
+## SavedVariablesPerCharacter:
+## RequiredDeps: SinarisUI_Config, Tukui
+## X-oUF: oUFTukui
+
+SinarisUI_Loader.xml

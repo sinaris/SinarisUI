@@ -1,0 +1,8 @@
+## Interface: 50001
+## Title: SinarisUI - FAQ
+## Notes:
+## Version: 6.0
+## Author: Sinaris
+## RequiredDeps: SinarisUI, Tukui
+
+SinarisUI_FAQ.xml
